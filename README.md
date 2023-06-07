@@ -71,7 +71,7 @@ npm install
 The application is organized into the following directory structure:
 
 ```markdown
-mern-auth-application/
+mern-auth/
   ├── backend/
   │   ├── controllers/        # Express controller functions
   │   ├── middleware/         # Custom middleware functions
@@ -99,5 +99,3 @@ Contributions are welcome! If you find any issues or want to add new features, p
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
