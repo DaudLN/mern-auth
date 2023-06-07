@@ -1,7 +1,5 @@
 # MERN Auth Application
 
-```markdown
-
 This is a full-stack MERN (MongoDB, Express.js, React, Node.js) authentication application that allows users to sign up, sign in, sign out, and update their profile. The application uses an Express authentication system and HTTP-only cookies for session management.
 
 The frontend is built using React, Chakra UI for styling, React Router for routing, and Zustand for global state management. The backend is built with Express.js and MongoDB using Mongoose for database interaction.
